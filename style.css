@@ -1,0 +1,21 @@
+img{
+  max-width: 100%;
+  height: auto;
+  }
+
+.front{
+  width: 50%;
+  height: 50%;
+}
+
+.navbar{
+  background-color: black;
+}
+
+.navbar .navbar-brand:hover{
+  color: white;
+}
+
+.navbar{
+  color: white;
+}
